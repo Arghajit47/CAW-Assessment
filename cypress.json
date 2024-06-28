@@ -15,5 +15,5 @@
   "viewportHeight": 720,
   "defaultCommandTimeout": 20000,
   "pageLoadTimeout": 200000,
-  "testFiles": ["assessment.cy.js"]
+  "testFiles": ["assessment.cy.js", "datePicker.spec.js"]
 }
